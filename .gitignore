@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# Audio / Video temp files
+*.mp4
+*.wav
+*.mp3
+temp_raw_video.mp4
+
+# OS generated
+.DS_Store
+Thumbs.db
